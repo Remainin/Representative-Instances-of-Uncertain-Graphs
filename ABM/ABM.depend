@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1464019329 source:d:\c\т╢нд╪Ч\abm\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
